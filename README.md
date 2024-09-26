@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a University Management System**
  
- 🌱 I’m currently learning **Laravel, React and Docker**
+ 🌱 I’m currently learning new technologies!
 
  </div>
  
