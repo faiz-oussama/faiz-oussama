@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full-stack spring boot app**
+ 🔭 I’m currently working on **Full-stack ticketing web app that bridges between events organizers and clients using React.js and Spring Ecosystem, integrating DevOps practices**
  
  🌱 I’m currently learning new technologies!
 
