@@ -1,4 +1,7 @@
 # 💫 FAIZ OUSSAMA
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faiz-oussama.faiz-oussama" alt="visitor badge" />
+</p>
 
 <div align="center">
   
@@ -6,7 +9,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Passionate+Full-Stack+Developer+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Crafting+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=faiz-oussama&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)
   [![GitHub followers](https://img.shields.io/github/followers/faiz-oussama?style=for-the-badge&color=667eea&labelColor=1e1e2e)](https://github.com/faiz-oussama)
   
 </div>
