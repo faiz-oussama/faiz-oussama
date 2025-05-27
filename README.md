@@ -1,395 +1,182 @@
 <div align="center">
-
-<!-- EPIC 3D HOLOGRAPHIC ENTRANCE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=FAIZ%20OUSSAMA&fontSize=70&fontColor=fff&animation=blinking&stroke=fff&strokeWidth=3&fontAlignY=45"/>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faiz-oussama.faiz-oussama" alt="visitor badge" />
 </div>
 
-<!-- MATRIX HACKER INTRODUCTION -->
 <div align="center">
-
-```
-    ╔══════════════════════════════════════════════════════════════════════════════════╗
-    ║  🚨 LEGENDARY DEVELOPER HAS ENTERED THE MATRIX 🚨                                ║
-    ║                                                                                  ║
-    ║  WARNING: This profile may cause extreme inspiration and immediate job offers    ║
-    ║  CAUTION: Viewing may result in uncontrollable urge to hire this developer      ║
-    ║                                                                                  ║
-    ║  💀 THREAT LEVEL: MAXIMUM 💀                                                     ║
-    ╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faiz%20Oussama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<!-- INSANE TYPING ANIMATION WITH MULTIPLE LAYERS -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=300&color=00FF41&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%96%88%E2%96%88%E2%96%88+FULL-STACK+GOD+MODE+ACTIVATED+%E2%96%88%E2%96%88%E2%96%88;%F0%9F%94%A5+MOROCCO%E2%80%99S+DIGITAL+OVERLORD+%F0%9F%87%B2%F0%9F%87%A6+%F0%9F%94%A5;%E2%9A%A1+ARCHITECT+OF+IMPOSSIBLE+SOFTWARE+%E2%9A%A1;%F0%9F%9A%80+TURNING+DREAMS+INTO+DEPLOYED+REALITY+%F0%9F%9A%80;%F0%9F%92%80+BREAKING+THE+INTERNET+SINCE+DAY+ONE+%F0%9F%92%80)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Morocco+🇲🇦;Building+Digital+Experiences;React+%7C+Spring+%7C+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- EPIC MATRIX RAIN WITH PROFILE -->
+<br/>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+  <img src="https://github.com/faiz-oussama/faiz-oussama/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
+## 🚀 **Current Mission**
 
-<!-- LEGENDARY HACKER CONSOLE -->
 <div align="center">
-
-## 💀 SYSTEM.EXE HACKED BY FAIZ.OUSSAMA 💀
-
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```bash
-$ sudo whoami
-faiz_oussama
-
-$ cat /proc/developer/stats
-Name: Faiz Oussama
-Origin: Morocco 🇲🇦
-Class: Digital Architect
-Level: ∞
-EXP: 9,999,999,999
-HP: ████████████████████ 100%
-MP: ████████████████████ 100%
-Caffeine: ██████████████████░░ 90%
-
-$ ps aux | grep current_projects
-ticketing_platform    RUNNING   🔥🔥🔥
-world_domination      QUEUED    💀💀💀
-breaking_internet     ACTIVE    ⚡⚡⚡
-
-$ history | tail -3
-sudo rm -rf bugs/
-git push origin --force-with-lease
-make world_better
-
-$ uptime
-up 24/7, load average: LEGENDARY
-```
-
-</td>
-<td width="50%" valign="top">
-
-```javascript
-class UnstoppableDeveloper {
-  constructor() {
-    this.name = "Faiz Oussama";
-    this.location = "Morocco 🇲🇦";
-    this.superpower = "Code Transmutation";
-    this.currentMission = "Revolutionizing Ticketing";
-    this.dangerLevel = "MAXIMUM";
-    this.coffeeDependency = true;
-    this.sleepRequired = false;
-    this.bugKillCount = Infinity;
-  }
-
-  executeImpossible(task) {
-    console.log(`🚀 ${task} - MISSION ACCEPTED`);
-    this.deployMagic();
-    return "✅ IMPOSSIBLE TASK COMPLETED";
-  }
-
-  deployMagic() {
-    return "💫 *waves hands* *code appears*";
-  }
-}
-
-const legend = new UnstoppableDeveloper();
-legend.executeImpossible("Build Next-Gen Platform");
-// Output: "✅ IMPOSSIBLE TASK COMPLETED"
-```
-
-</td>
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+        <br><strong>🎟️ Ticketing Platform</strong>
+        <br>Building a revolutionary full-stack web app
+        <br>React.js • Spring Ecosystem • DevOps
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+        <br><strong>🌱 Continuous Learning</strong>
+        <br>Exploring cutting-edge technologies
+        <br>Cloud Architecture • Microservices
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+## 💫 **About Me**
 
-<!-- WEAPONS OF MASS DESTRUCTION -->
+```typescript
+const faizOussama: Developer = {
+  location: "Morocco 🇲🇦",
+  role: "Full-Stack Software Developer",
+  languages: ["JavaScript", "TypeScript", "Java", "Python", "PHP"],
+  architecture: ["Microservices", "Event-Driven", "Serverless"],
+  currentFocus: "Building scalable web applications with modern tech stack",
+  askMeAbout: ["React", "Spring Boot", "DevOps", "System Design"],
+  funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+```
+
 <div align="center">
-
-## ⚔️ ARSENAL OF DIGITAL DESTRUCTION ⚔️
-
-### 💀 LEGENDARY WEAPONS 💀
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="70" height="70" style="filter: drop-shadow(0 0 10px #f7df1e);"/>
-<br><sub><b>JavaScript</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ts" width="70" height="70" style="filter: drop-shadow(0 0 10px #3178c6);"/>
-<br><sub><b>TypeScript</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="70" height="70" style="filter: drop-shadow(0 0 10px #ed8b00);"/>
-<br><sub><b>Java</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="70" height="70" style="filter: drop-shadow(0 0 10px #3776ab);"/>
-<br><sub><b>Python</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="70" height="70" style="filter: drop-shadow(0 0 10px #61dafb);"/>
-<br><sub><b>React</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=spring" width="70" height="70" style="filter: drop-shadow(0 0 10px #6db33f);"/>
-<br><sub><b>Spring</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="70" height="70" style="filter: drop-shadow(0 0 10px #2496ed);"/>
-<br><sub><b>Docker</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="70" height="70" style="filter: drop-shadow(0 0 10px #326ce5);"/>
-<br><sub><b>K8s</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="70" height="70" style="filter: drop-shadow(0 0 10px #ff9900);"/>
-<br><sub><b>AWS</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" style="filter: drop-shadow(0 0 10px #4479a1);"/>
-<br><sub><b>MySQL</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" style="filter: drop-shadow(0 0 10px #47a248);"/>
-<br><sub><b>MongoDB</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=redis" width="70" height="70" style="filter: drop-shadow(0 0 10px #dc382d);"/>
-<br><sub><b>Redis</b></sub>
-<br><sub>💀💀💀💀💀</sub>
-</td>
-</tr>
-</table>
-
-### 🎮 SPECIAL ABILITIES MAXED OUT
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=FF0000)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-oussama&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 </div>
 
----
+## 🛠️ **Tech Arsenal**
 
-<!-- LEGENDARY PROJECTS THAT BROKE THE INTERNET -->
 <div align="center">
-
-## 🚀 PROJECTS THAT BROKE THE INTERNET 🚀
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎭 AI TEXT ANNOTATION PLATFORM
-<!-- Insane 3D Project Showcase -->
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350"/>
-
-```
-🤖 AI/ML INTEGRATION: ████████████ 100%
-👥 REAL-TIME SYNC:    ████████████ 100%
-📊 ANALYTICS ENGINE:  ████████████ 100%
-🔄 DATA PROCESSING:   ████████████ 100%
-⚡ PERFORMANCE:       ████████████ 100%
-🎨 UI/UX PERFECTION:  ████████████ 100%
-
-STATUS: LEGENDARY ✨
-IMPACT: MIND-BLOWING 🤯
-USERS: ADDICTED 💊
-```
-
-[![🚀 WITNESS THE MAGIC](https://img.shields.io/badge/🚀_WITNESS_THE_MAGIC-FF1744?style=for-the-badge&logoColor=white&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)](https://github.com/faiz-oussama/Collaborative-Text-Annotation-Platform-with-Quality-Control)
-
-</td>
-<td width="50%" align="center">
-
-### 🎫 TICKETING EMPIRE OF DOOM
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-
-```
-💳 PAYMENT FORTRESS:    ████████████ 100%
-📊 ANALYTICS BEAST:     ██████████░░  90%
-🎨 UI/UX PERFECTION:    ████████████ 100%
-🚀 MICROSERVICES:       ████████████ 100%
-🔥 PERFORMANCE GOD:     ████████████ 100%
-🛡️ SECURITY VAULT:     ████████████ 100%
-
-STATUS: WORLD DOMINATION MODE 🌍
-IMPACT: INTERNET BREAKING 💥
-LAUNCH: IMMINENT 🚨
-```
-
-[![💀 COMING TO DESTROY COMPETITION](https://img.shields.io/badge/💀_COMING_TO_DESTROY_COMPETITION-00E676?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-
-</td>
-</tr>
-</table>
-
-### 🎯 MISSION CONTROL CENTER
-```
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║                            🎫 OPERATION: TICKETING DOMINATION                          ║
-╠════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                        ║
-║  PROGRESS: [████████████████████████████████████████████████████████████████████] 85%  ║
-║                                                                                        ║
-║  ✅ AUTHENTICATION FORTRESS     │ STATUS: UNBREACHABLE                                ║
-║  ✅ PAYMENT GATEWAY BEAST       │ STATUS: MONEY PRINTING MACHINE                     ║
-║  🔄 ANALYTICS DASHBOARD         │ STATUS: MIND-READING ACTIVE                        ║
-║  ⏳ MOBILE APP WEAPON           │ STATUS: UNDER CONSTRUCTION                         ║
-║  ⏳ AI RECOMMENDATION ENGINE    │ STATUS: TEACHING MACHINES TO THINK                ║
-║  💀 WORLD DOMINATION MODE       │ STATUS: FINAL BOSS LOADING...                     ║
-║                                                                                        ║
-╚════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 </div>
 
----
-
-<!-- GITHUB STATS THAT BREAK REALITY -->
+### **Frontend Mastery**
 <div align="center">
-
-## 📊 STATS THAT BREAK REALITY 📊
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faiz-oussama&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=💀%20GITHUB%20DOMINATION%20💀" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-oussama&theme=synthwave&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ffdd44&currStreakLabel=ff6b6b" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-oussama&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&langs_count=12&custom_title=🔥%20LANGUAGE%20ANNIHILATION%20🔥" />
-
-### 🏆 ACHIEVEMENT UNLOCKED: LEGENDARY STATUS
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=faiz-oussama&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </div>
 
----
-
-<!-- POWER LEVEL THAT BREAKS SCOUTERS -->
+### **Backend Excellence**
 <div align="center">
-
-## ⚡ POWER LEVEL: OVER 9000 ⚡
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                🔥 LEGENDARY STATS 🔥                                     ║
-╠═══════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                           ║
-║  ☕ COFFEE ADDICTION:      [████████████████████████████████████████████████] 100%      ║
-║  🔥 PASSION INTENSITY:     [████████████████████████████████████████████████] ∞%        ║
-║  🚀 INNOVATION FACTOR:     [████████████████████████████████████████████████] MAXED     ║
-║  🎯 BUG ANNIHILATION:      [████████████████████████████████████████████████] GODLIKE   ║
-║  💻 CODING SPEED:          [████████████████████████████████████████████████] SONIC     ║
-║  🧠 PROBLEM SOLVING:       [████████████████████████████████████████████████] GENIUS    ║
-║  🎮 MULTITASKING:          [████████████████████████████████████████████████] INHUMAN   ║
-║  💤 SLEEP SCHEDULE:        [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] OPTIONAL  ║
-║  🌟 LEGENDARY STATUS:      [████████████████████████████████████████████████] ACHIEVED  ║
-║                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
----
-
-<!-- CONTACT PORTALS TO ANOTHER DIMENSION -->
+### **Database & Cloud**
 <div align="center">
-
-## 🌐 DIMENSIONAL CONTACT PORTALS 🌐
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-### 🔗 LEGENDARY COMMUNICATION CHANNELS
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/oussama-faiz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:faizouss123@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/faiz_oussama)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000)](https://dev.to/faizoussama)
-
----
-
-### 💭 LEGENDARY WISDOM FROM THE CODE SAMURAI
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
-> *"I don't just write code. I architect digital universes where impossible becomes inevitable."*
-
-> *"Every line of code is a spell, every function a incantation, every deployment a summoning of greatness."*
-
-> *"While others debug, I create. While others copy, I innovate. While others dream, I deploy."*
-
----
-
-### 🏆 LEGENDARY ACHIEVEMENTS UNLOCKED
-```
-🎯 ACHIEVEMENT: INTERNET BREAKER
-📊 ACHIEVEMENT: REPOSITORY LEGEND  
-🚀 ACHIEVEMENT: CODE SAMURAI
-💀 ACHIEVEMENT: BUG DESTROYER
-🔥 ACHIEVEMENT: PERFORMANCE GOD
-⚡ ACHIEVEMENT: INNOVATION BEAST
-🌟 ACHIEVEMENT: DEVELOPER OVERLORD
-💎 ACHIEVEMENT: ARCHITECTURE MASTER
-```
-
----
-
-### 🚨 WARNING: HIRE AT YOUR OWN RISK 🚨
-```
-⚠️  This developer may cause:
-    • Exponential productivity increases
-    • Spontaneous innovation outbreaks
-    • Uncontrollable urge to refactor everything
-    • Complete transformation of your tech stack
-    • Addiction to clean, beautiful code
-    • Revolutionary product development
-    • Competition elimination
-    • Market domination
-```
-
----
-
-**🌟 Ready to witness digital magic? Let's build something that will redefine the impossible! 🚀**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer"/>
-
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-<!-- ULTRA SECRET EASTER EGG FOR LEGENDARY DEVELOPERS -->
-<!-- 
-  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ████████╗██╗  ██╗███████╗    ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝    ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-  ███████║███████║██║     █████╔╝ █████╗  ██║  ██║       ██║   ███████║█████╗      ██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-  ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██║  ██║       ██║   ██╔══██║██╔══╝      ██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-  ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝       ██║   ██║  ██║███████╗    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+### **DevOps & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faiz-oussama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faiz-oussama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faiz-oussama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+## 🎯 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiz-oussama&custom_title=Faiz's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+## 🏗️ **Architecture Philosophy**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
+        <br><strong>🏗️ Scalable Design</strong>
+        <br>Microservices • Clean Architecture
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+        <br><strong>🚀 Performance First</strong>
+        <br>Optimized • Efficient • Fast
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80"/>
+        <br><strong>🔒 Security Minded</strong>
+        <br>Secure by Design • Best Practices
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+  <a href="mailto:faizouss123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/oussama-faiz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/faiz-oussama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=faiz-oussama&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+</div>
+
+## 💝 **Support My Work**
+
+<div align="center">
+  <p>If you like my work and want to support me:</p>
   
-  🎉 CONGRATULATIONS! 🎉
-  You found the ultimate easter egg! You're clearly a developer of LEGENDARY status.
-  Only the most elite developers check the source code. Welcome to the secret society! 💀
-  
-  Secret achievement unlocked: 🏆 SOURCE CODE DETECTIVE 🏆
--->
+  <a href="https://www.buymeacoffee.com/faizoussama" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
+</div>
