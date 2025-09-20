@@ -1,58 +1,52 @@
-# Hi, I'm Faiz Oussama 👋
+# Hi, I'm Oussama Faiz 👋
 
-**Full-Stack Developer** based in Morocco 🇲🇦
+**Full-Stack & Cloud-Oriented Developer** • Software Engineering Student • Morocco 🇲🇦  
 
-I'm passionate about building scalable web applications and exploring modern technologies. Currently working on a comprehensive ticketing platform using React and Spring ecosystem.
-
----
-
-## 🔧 Technologies & Tools
-
-**Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS  
-**Backend:** Spring Boot • Node.js • Express • Laravel • Flask  
-**Databases:** MongoDB • MySQL • Firebase  
-**Cloud & DevOps:** AWS • Docker • Kubernetes • GitHub Actions • Jenkins  
-**Languages:** Java • Python • PHP • TypeScript • JavaScript
+I build **scalable web applications**, integrate **cloud-native solutions**, and experiment with **AI-driven systems**.  
+Focused on clean architecture, performance, and modern DevOps practices.
 
 ---
 
-## 🚀 What I'm Working On
-
-- **🎟️ Ticketing Platform** - Building a full-stack web application with React.js and Spring ecosystem
-- **📚 Learning:** Cloud architecture patterns and microservices design
-- **🔍 Exploring:** Advanced DevOps practices and system optimization
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faiz-oussama&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-oussama&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
-</div>
+## 🔧 Tech Stack
+**Languages:** Java • C/C++ • TypeScript • JavaScript • Python  
+**Backend:** Spring Boot • FastAPI • Flask • Node.js • Express  
+**Frontend:** React.js • Next.js • Tailwind CSS • Thymeleaf  
+**Cloud & DevOps:** Oracle Cloud (OCI) • AWS • Docker • Kubernetes • Elasticsearch • Jenkins • Nginx  
+**Databases:** MySQL • PostgreSQL • Oracle DB • MariaDB • MongoDB • Prisma ORM  
+**AI/ML:** TensorFlow • Scikit-Learn • OpenCV • BERT (NLP) • OpenAI APIs
 
 ---
 
-## 💼 Professional Focus
-
-- **Architecture:** Microservices, Clean Architecture, Event-Driven Design
-- **Performance:** Writing efficient, optimized code with focus on scalability
-- **Security:** Implementing security best practices from the ground up
-- **DevOps:** CI/CD pipelines, containerization, and cloud deployment
+## 🚀 Key Projects
+- **NLP Annotation Anomaly Detector** – Platform using **Spring Boot**, **Flask**, and **BERT** to detect inconsistencies in datasets.  
+- **AI Travel Planner** – MERN-based app generating personalized itineraries via **Gemini API**.  
+- **Real-Time P2P Messaging App** – Low-latency desktop chat built with **C++**, **Qt**, and TCP sockets.
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Certifications
+- **Oracle Certified Professional – Java SE 11 Developer**  
+- **Oracle Cloud Infrastructure Architect Professional 2024**  
+- **Oracle Cloud Infrastructure DevOps Professional 2024**  
+- **Oracle Cloud Infrastructure Foundations Associate**
 
-- **Email:** faizouss123@gmail.com
-- **LinkedIn:** [oussama-faiz](https://linkedin.com/in/oussama-faiz)
-- **Portfolio:** Currently building something awesome ⚡
+---
+
+## 🌱 Current Focus
+- **Cloud & DevOps:** Microservices, CI/CD pipelines, container orchestration  
+- **AI Integration:** Vector databases & LLMs in production environments  
+- **Scalable Architectures:** Event-driven design and test-driven development
+
+---
+
+## 📫 Connect
+- **Email:** faizouss123@gmail.com  
+- **LinkedIn:** [linkedin.com/in/oussama-faiz](https://linkedin.com/in/oussama-faiz/)  
+- **Portfolio:** [faizoussama.vercel.app](https://faizoussama.vercel.app)
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=faiz-oussama&color=blue&style=flat)
 
 *"Clean code always looks like it was written by someone who cares."*
 
