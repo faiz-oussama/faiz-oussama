@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faiz-oussama.faiz-oussama" alt="visitor badge" />
 </div>
 
@@ -161,15 +161,6 @@ const faizOussama: Developer = {
   <img src="https://komarev.com/ghpvc/?username=faiz-oussama&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 </div>
 
-## 💝 **Support My Work**
-
-<div align="center">
-  <p>If you like my work and want to support me:</p>
-  
-  <a href="https://www.buymeacoffee.com/faizoussama" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
-  </a>
-</div>
 
 ---
 
@@ -180,3 +171,4 @@ const faizOussama: Developer = {
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
 </div>
+**
